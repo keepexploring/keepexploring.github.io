@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://keepexploring.github.io
+title: codenotes
+tagline: A log of everyday life
+description: My journey learning to code
+paginate: 5
